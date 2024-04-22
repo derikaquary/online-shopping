@@ -1,0 +1,30 @@
+.cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 3px;
+  font-size: 2px;
+}
+
+.cont p,
+.cont span {
+  font-size: 20px;
+}
+
+.cont span {
+  color: rgb(6, 161, 161);
+}
+
+.cont span:hover {
+  cursor: pointer;
+}
+
+.cont span:active {
+  color: darkblue;
+}
+
+.cont input {
+  width: 30px;
+  border-style: solid;
+  font-size: 20px;
+}

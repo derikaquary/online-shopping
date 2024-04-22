@@ -1,0 +1,15 @@
+.infoAndDelivery {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+}
+
+.imageAndInfo {
+  width: 300px;
+  margin-right: 5px;
+}

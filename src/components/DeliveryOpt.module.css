@@ -1,0 +1,21 @@
+.deliverylist {
+  justify-content: center;
+}
+.delivery p {
+  background-color: rgb(0, 110, 255);
+  font-size: 20px;
+}
+
+.deliverylist ul {
+  list-style-type: none;
+}
+
+.list label {
+  font-size: 20px;
+  margin-left: -40px;
+}
+
+.list input {
+  width: 20px;
+  height: 20px;
+}

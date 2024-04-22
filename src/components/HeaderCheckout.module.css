@@ -1,0 +1,27 @@
+* {
+  font-size: 25px; /* Set the desired font size */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 15px;
+  position: fixed;
+  height: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background-color: #3498db;
+}
+
+.link,
+.header div {
+  font-size: 20px;
+  width: 150px;
+  color: white;
+}

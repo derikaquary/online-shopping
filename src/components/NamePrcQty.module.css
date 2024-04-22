@@ -1,0 +1,12 @@
+.npq {
+  display: flex;
+  flex-direction: column;
+}
+
+.itemName {
+  font-size: 20px;
+}
+
+.npq span {
+  font-size: 20px;
+}
