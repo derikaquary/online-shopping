@@ -152,7 +152,7 @@ function useProps() {
     throw new Error("Prop context was used outside the PropsProvider");
   return context;
 }
-
+// eslint-disable-next-line no-case-declarations
 export { PropsProvider, useProps };
 
 /*  
